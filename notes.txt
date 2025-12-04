@@ -1,0 +1,67 @@
+12/02/2025
+
+HTML Tag is parent of head&body Tag
+
+Most of html elements have opening and closing tags with content in between
+
+some tags have no content in between
+
+HTML is not case sensitive
+
+Basic HTML tags:-
+--HTML Attributes:
+--Attributes are used to add more information to the tag
+<html lang="en">
+
+***Heading Tag is used to display headings in html
+h1(most important), h2, h3, h4(least important)....
+
+***Paragraph Tag is used to add Paragraph in html
+<p>this is a sample Paragraph</p>
+
+***Anchor Tag is used to add links to your page
+<a href="https://google.com">Google</a>
+
+Br Tag is used to add next line(line breaks) to your page
+</br>
+
+relative url-->    <a href="/new.html">Go to New</a>
+
+***Image Tag is used to add image to your page
+<img src="image.png" alt="Random Image">
+
+***Bold, Italic & Underline Tags are used to highlight text in your page
+<b> Bold </b>
+<i> Italic </i>
+<u> Underline </u>
+
+***Big & Small Tags are used to display big & small text on your page
+<big> Big </big>
+<small> Small </small>
+
+*** Hr Tag is used to display a horizontal ruler, used to separate content
+<hr>
+
+***Pre Tag is used to display text as it is (without ignoring spaces and nextline)
+<pre> This is a sample text </pre>
+
+
+
+***Page Layout Techniques using Sematic tags for layout, using the right tags
+<header>
+<main>
+<footer>
+
+---> Non-semantic tags
+div, span
+
+Inside Main Tag
+--Section Tag for a section on your page
+<section>
+--Article Tag for an article on your page
+<article>
+--Aside Tag for content aside main contents
+<aside>
+
+***Div Tag   Div is a container used for other HTML elements
+Block Element (takes full width)
