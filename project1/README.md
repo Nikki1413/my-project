@@ -29,6 +29,11 @@
         <h2>My Mother</h2>
         <p><strong> My Mother name is Chinnakka, She raised me with values</strong></p>
     </section>
+
+<section>
+        <h2>My Sisters</h2>
+        <p><strong> I have two sisters, Elder on is Baby and Younger one is Bujji. They are very supportive and lovable</strong></p>
+    </section>
     
     <section>
         <h2>Education</h2>
