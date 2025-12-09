@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+/* Boxes */
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+/* Container */
+#container {
+    height: 200px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;   /* vertically center boxes */
+    border: 2px solid black;
+    margin: 0 auto;        /* CENTER THE CONTAINER */
+}
+
+/* Box colors */
+#box1 {
+    background-color: rgb(9, 69, 235);
+}
+
+#box2 {
+    background-color: rgb(16, 238, 16);
+}
+
+#box3 {
+    background-color: rgb(235, 76, 102);
+}
+
+#box4 {
+    background-color: rgb(105, 158, 255);
+}
