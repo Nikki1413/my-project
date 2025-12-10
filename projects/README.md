@@ -20,7 +20,7 @@
         <p>Passionate Home maker with experience in building responsive and family person.</p>
     </section>
 
-  <section>
+    <section>
         <h2>My Father</h2>
         <p><strong> My Father name is Sri Rama Chandra Murthy, He is very kind to me and my hero</strong></p>
     </section>
@@ -30,7 +30,7 @@
         <p><strong> My Mother name is Chinnakka, She raised me with values</strong></p>
     </section>
 
-<section>
+    <section>
         <h2>My Sisters</h2>
         <p><strong> I have two sisters, Elder on is Baby and Younger one is Bujji. They are very supportive and lovable</strong></p>
     </section>
